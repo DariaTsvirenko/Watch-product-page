@@ -64,6 +64,13 @@ body {
   line-height: 82px;
   text-align: center;
 }
+.btn-primary:hover {
+  color:#bb8b5d
+}
+.btn-primary:active {
+  color: rgb(221, 221, 140);
+
+}
 
 .price {
   width: 143px;
@@ -223,4 +230,12 @@ body {
 }
 .product-desc-link {
   color: #bb8b5d;
+}
+.product-desc-link:hover {
+  color: yellow;
+
+}
+.product-desc-link:active {
+  color: rgb(69, 16, 241);
+
 }
